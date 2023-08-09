@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 20,
+    "horizontalStartingIndex": 10,
+    "horizontalWrap": true,
+    "name": "8-7.101",
+    "type": "KeyShotXR",
+    "verticalFrames": 20,
+    "verticalStartingIndex": 0,
+    "verticalWrap": true
+}
